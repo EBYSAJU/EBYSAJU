@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ebysaju.github.io/myportfolio/](https://ebysaju.github.io/myportfolio/)
 
-- 💬 Ask me about **React,Android,Vue**
+- 💬 Ask me about **React JS,Android,Vue JS,Flutter**
 
 - 📫 How to reach me **ebysaju123@gmail.com**
 
