@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Room finder**
 
-- 🌱 I’m currently learning **flutter,Vue Js**
+- 🌱 I’m currently learning **flutter,Vue Js, Python Django**
 
 - 👨‍💻 All of my projects are available at [https://ebysaju.github.io/myportfolio/](https://ebysaju.github.io/myportfolio/)
 
