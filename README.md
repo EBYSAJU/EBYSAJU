@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Python Django, Flutter, Vue JS
+🔭 I’m currently working on Python Django, Flutter with Firebase, Vue JS
 <!--
 **EBYSAJU/EBYSAJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
