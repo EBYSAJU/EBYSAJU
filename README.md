@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebysaju&label=Profile%20views&color=0e75b6&style=flat" alt="ebysaju" /> </p>
 
-- 🔭 I’m currently working on **Room finder**
+- 🔭 I’m currently working on **developing Room finder application using flutter and firebase**
 
 - 🌱 I’m currently learning **flutter,Vue Js, Python Django**
 
