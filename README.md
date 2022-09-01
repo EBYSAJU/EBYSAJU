@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **developing Room finder application using flutter and firebase**
 
-- 🌱 I’m currently learning **flutter,Vue Js, Python Django**
+- 🌱 I’m currently learning **flutter,Vue Js, Python Django,Ruby**
 
 - 👨‍💻 All of my projects are available at [https://ebysaju.github.io/myportfolio/](https://ebysaju.github.io/myportfolio/)
 
