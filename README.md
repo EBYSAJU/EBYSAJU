@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ebysaju123@gmail.com**
 
-- ⚡ Fun fact **I like Swimming and playing basket ball**
+- ⚡ Fun fact **I like Swimming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
