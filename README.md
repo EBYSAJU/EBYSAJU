@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ebysaju.github.io/myportfolio/](https://ebysaju.github.io/myportfolio/)
 
-- 💬 Ask me about **React JS,Android room , Kotlin, Java ,Vue JS,Flutter,Ethereum Block Chain,Node JS,C,C++**
+- 💬 Ask me about **React JS,Android room , Kotlin, Java ,Vue JS,Flutter,Ethereum Block Chain,Node JS,C,C++, Machine learning **
 
 - 📫 How to reach me **ebysaju123@gmail.com**
 
