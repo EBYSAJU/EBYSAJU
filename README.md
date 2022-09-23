@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **flutter,Vue Js, Python Django,Ruby and Kotlin from Udemy**
 
-- 👨‍💻 All of my projects are available at [https://ebysaju.github.io/myportfolio/](https://ebysaju.github.io/myportfolio/)
+<!--- 👨‍💻 All of my projects are available at [https://ebysaju.github.io/myportfolio/](https://ebysaju.github.io/myportfolio/)-->
 
 - 💬 Ask me about **React JS,Android room , Kotlin, Java ,Vue JS,Flutter,Ethereum Block Chain,Node JS,C,C++, Machine learning **
 
