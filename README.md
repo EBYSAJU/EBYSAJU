@@ -17,9 +17,9 @@
 - ⚡ Fun fact **I like Swimming**
       <table>  
        <thead>  
-        <tr>                                                                                                                           
+                                                                                                                                  
  <th>  <h1>My Projects</h1></th>
-         </tr> 
+         
           <tbody>
          <tr>                                                                                                                          
     <td><h3> <a  href="https://github.com/EBYSAJU/E-Lotto-System-using-EthereumBlock-Chain-REACT-JS-NODE-JS">E-Lotto System Using Blockchain</a><br> </h3> </td>
