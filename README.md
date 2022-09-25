@@ -17,7 +17,9 @@
 - ⚡ Fun fact **I like Swimming**
                                                                                                                                    
    <h1>My Projects</h1>
-     <a style={color:red} href="https://github.com/EBYSAJU/E-Lotto-System-using-EthereumBlock-Chain-REACT-JS-NODE-JS">E-Lotto System Using Blockchain</a>                                                                                                                          
+     <a  href="https://github.com/EBYSAJU/E-Lotto-System-using-EthereumBlock-Chain-REACT-JS-NODE-JS">E-Lotto System Using Blockchain</a>  
+     <a  href="https://github.com/EBYSAJU/Notebook">NoteBook Android Kotlin Application</a>                                                                                                   
+                                                                                                    
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
