@@ -15,23 +15,18 @@
 - 📫 How to reach me **saju_eby@icloud.com**
 
 - ⚡ Fun fact **I like Swimming**
-      <table>  
-       <thead>  
-                                                                                                                                  
- <th>  <h1>My Projects</h1></th>
+                                                                                                                      
+   <h1>My Projects</h1>
          
-          <tbody>
-         <tr>                                                                                                                          
-    <td><h3> <a  href="https://github.com/EBYSAJU/E-Lotto-System-using-EthereumBlock-Chain-REACT-JS-NODE-JS">E-Lotto System Using Blockchain</a><br> </h3> </td>
-    <td><h3> <a  href="https://github.com/EBYSAJU/Notebook">NoteBook Android Kotlin Application</a><br> </h3>  </td>
-   <td><h3>  <a  href="https://github.com/EBYSAJU/WeatherApp">Weather Application Using React JS and Rest API's</a><br>  </h3></td>
-   <td><h3>  <a  href="https://github.com/EBYSAJU/handCricket">Hand Cricket Game Using JavaScript, Html and CSS</a><br> </h3></td>
-  <td><h3>   <a  href="https://github.com/EBYSAJU/Room-finder">Room Finder Application Using Flutter and Firebase</a> </h3></td>
-           </tr>                                               
-          </tbody>                                                
-     </table>
-                                                                                                    
-
+                                                                                                                                
+    <h3> <a  href="https://github.com/EBYSAJU/E-Lotto-System-using-EthereumBlock-Chain-REACT-JS-NODE-JS">E-Lotto System Using Blockchain</a><br> </h3> 
+    <h3> <a  href="https://github.com/EBYSAJU/Notebook">NoteBook Android Kotlin Application</a><br> </h3>  
+   <h3>  <a  href="https://github.com/EBYSAJU/WeatherApp">Weather Application Using React JS and Rest API's</a><br>  </h3>
+   <h3>  <a  href="https://github.com/EBYSAJU/handCricket">Hand Cricket Game Using JavaScript, Html and CSS</a><br> </h3>
+   <h3>   <a  href="https://github.com/EBYSAJU/Room-finder">Room Finder Application Using Flutter and Firebase</a> </h3>
+                                                        
+      
+                                                                                                
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ebysaju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebysaju" height="30" width="40" /></a>
