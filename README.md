@@ -21,7 +21,7 @@
     <h3> <a  href="https://github.com/EBYSAJU/Notebook">NoteBook Android Kotlin Application</a><br> </h3>  
    <h3>  <a  href="https://github.com/EBYSAJU/WeatherApp">Weather Application Using React JS and Rest API's</a><br>  </h3>
    <h3>  <a  href="https://github.com/EBYSAJU/handCricket">Hand Cricket Game Using JavaScript, Html and CSS</a><br> </h3>
-  <h3>   <a  href="https://github.com/EBYSAJU/Room-finder">Room Finder Application using Flutter and Firebase</a> </h3>
+  <h3>   <a  href="https://github.com/EBYSAJU/Room-finder">Room Finder Application Using Flutter and Firebase</a> </h3>
      
                                                                                                     
 
