@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eby Saju</h1>
-<h3 align="center">A passionate Software, full Stack Developer, Android Developer</h3>
+<h3 align="center">A passionate Software, Full Stack Developer, Android Developer</h3>
 <img align="right alt="developer" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebysaju&label=Profile%20views&color=0e75b6&style=flat" alt="ebysaju" /> </p>
