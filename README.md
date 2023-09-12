@@ -10,7 +10,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [https://ebysaju.github.io/myportfolio/](https://ebysaju.github.io/myportfolio/)-->
 
-- 💬 Ask me about ** Self Soverign Identities, Digital Identities, Keycloak, Identity and Access Management, OIDC Provider, Vue JS, React JS, Android room, Kotlin, Java, Flutter, Ethereum Block Chain, Node JS, C, C++, Java Script Machine learning **
+- 💬 Ask me about ** Self Soverign Identities, Digital Identities, Keycloak, Identity and Access Management, OIDC Provider, Vue JS, React JS, Android room, Kotlin, Java, Flutter, Ethereum Block Chain, Node JS, C, C++, Java Script Machine learning, Bluetooth Low Energy Devices, Spire **
 
 - 📫 How to reach me **saju_eby@icloud.com**
 
