@@ -10,7 +10,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [https://ebysaju.github.io/myportfolio/](https://ebysaju.github.io/myportfolio/)-->
 
-- 💬 Ask me about **React JS, Android room, Kotlin, Java, Flutter, Ethereum Block Chain, Node JS, C, C++, Machine learning **
+- 💬 Ask me about ** Self Soverign Identities,Identity and Access Management, OIDC Provider, React JS, Android room, Kotlin, Java, Flutter, Ethereum Block Chain, Node JS, C, C++, Machine learning **
 
 - 📫 How to reach me **saju_eby@icloud.com**
 
