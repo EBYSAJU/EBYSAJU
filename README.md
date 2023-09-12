@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebysaju&label=Profile%20views&color=0e75b6&style=flat" alt="ebysaju" /> </p>
 
-- 🔭 I’m currently working on **developing Room finder application using flutter and firebase**
+- 🔭 I worked  on **developing Room finder application using flutter and firebase**
 
-- 🌱 I’m currently learning **flutter,Python Django,Ruby and Kotlin from Udemy**
+- 🌱 I’m currently learning **cybersecurity, flutter, Python Django, Ruby and Kotlin from Udemy**
 
 <!--- 👨‍💻 All of my projects are available at [https://ebysaju.github.io/myportfolio/](https://ebysaju.github.io/myportfolio/)-->
 
