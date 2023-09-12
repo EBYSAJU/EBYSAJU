@@ -6,11 +6,11 @@
 
 - 🔭 I worked  on **developing a Web App using MetaMask (Web 3 wallet with Rineby Ethereum test network ) for pooling  ether coins from different accounts to main admin account and select a winner(1,2,3) from list and transfering the ether to the winner account(Ethereum Block Chain ), Room finder application using flutter and firebase**
 
-- 🌱 I’m currently learning **Cybersecurity, (Research and Development), Web Development, Proof of concepts(POC), Innovation **
+- 🌱 I’m currently learning **Cybersecurity, (Research and Development), Web Development, Proof of concepts(POC), Innovation, Digital Identities, IDPs **
 
 <!--- 👨‍💻 All of my projects are available at [https://ebysaju.github.io/myportfolio/](https://ebysaju.github.io/myportfolio/)-->
 
-- 💬 Ask me about ** Self Soverign Identities, Digital Identities, Keycloak, Identity and Access Management, OIDC Provider, Vue JS, React JS, Android room, Kotlin, Java, Flutter, Ethereum Block Chain, Node JS, C, C++, Java Script Machine learning, Bluetooth Low Energy Devices, Spire, Web3 Wallets, Hyper Ledger Aries, British Columbia Wallets  **
+- 💬 Ask me about ** Self Soverign Identities, Keycloak, Identity and Access Management, OIDC Provider, Vue JS, React JS, Android room, Kotlin, Java, Flutter, Ethereum Block Chain, Node JS, C, C++, Java Script Machine learning, Bluetooth Low Energy Devices, Spire, Web3 Wallets, Hyper Ledger Aries, British Columbia Wallets  **
 
 - 📫 How to reach me **saju_eby@icloud.com**
 
