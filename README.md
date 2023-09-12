@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebysaju&label=Profile%20views&color=0e75b6&style=flat" alt="ebysaju" /> </p>
 
-- 🔭 I worked  on **developing Room finder application using flutter and firebase**
+- 🔭 I worked  on **developing a Web App using MetaMask (Web 3 wallet with Rineby Ethereum test network ) for pooling a ether coins from different accounts to main admin account and select a winner from list and transfering the ether to the winner account, Room finder application using flutter and firebase**
 
 - 🌱 I’m currently learning **Cybersecurity, (Research and Development), Web Development, Proof of concepts(POC), Innovation **
 
